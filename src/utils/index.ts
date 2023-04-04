@@ -58,7 +58,7 @@ export const resetPasswordmailHtml = (email: string): string => {
 
 Please click on the link below to proceed.
       </p>
-      <a href="http://localhost:3000/create-password/${email}" style="background:#4EE0BC;text-decoration:none !important; font-weight:500; margin-top:35px; color:#fff; font-size:14px;padding:10px 24px;display:inline-block;border-radius:50px; width:10rem;">Reset your password</a>
+      <a href="https://all-well-color-test.netlify.app/create-password/${email}" style="background:#4EE0BC;text-decoration:none !important; font-weight:500; margin-top:35px; color:#fff; font-size:14px;padding:10px 24px;display:inline-block;border-radius:50px; width:10rem;">Reset your password</a>
       <p style="color:#455056; font-size:15px;line-height:24px; margin-top:50px; text-align:start;">
         The All Well team
       </p>
